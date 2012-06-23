@@ -8,7 +8,7 @@ https://github.com/JohnLangford/vowpal_wabbit/archives/master
 
 Alternatively, the very latest version is available here:
 
-git clone git://github.com/JohnLangford/vowpal_wabbit.git
+git clone http://github.com/JohnLangford/vowpal_wabbit.git
 
 You should be able to build it on most systems with:
 make
